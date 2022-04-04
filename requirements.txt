@@ -22,7 +22,7 @@ nodeenv==1.6.0
 platformdirs==2.4.0
 postgres==4.0
 pre-commit==2.16.0
-psycopg2-binary==2.9.2
+psycopg2-binary==2.9.3
 psycopg2-pool==1.1
 PyJWT==2.3.0
 PyMySQL==1.0.2
